@@ -51,11 +51,3 @@ You’ll clean, explore, and analyze real-world style data and generate a meanin
 | 🧹 Bonus | Duplicate handling, ratings breakdown, visuals |
 
 ---
-
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/yourusername/netflix-data-analysis.git
-cd netflix-data-analysis
-pip install -r requirements.txt (Make sure you are in a virtual environment especially if you are a linux user)
-python main.py
