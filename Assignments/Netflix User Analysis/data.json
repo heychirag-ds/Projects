@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Stranger Things",
+        "type": "TV Show",
+        "director": "The Duffer Brothers",
+        "country": "United States",
+        "date_added": "July 15, 2016",
+        "release_year": 2016,
+        "rating": "TV-14",
+        "duration": "3 Seasons",
+        "listed_in": "Drama, Fantasy, Sci-Fi"
+    },
+    {
+        "title": "The Irishman",
+        "type": "Movie",
+        "director": "Martin Scorsese",
+        "country": "United States",
+        "date_added": "November 27, 2019",
+        "release_year": 2019,
+        "rating": "R",
+        "duration": "209 min",
+        "listed_in": "Crime, Drama"
+    },
+    {
+        "title": "Dark",
+        "type": "TV Show",
+        "director": "Baran bo Odar",
+        "country": "Germany",
+        "date_added": "December 1, 2017",
+        "release_year": 2017,
+        "rating": "TV-MA",
+        "duration": "3 Seasons",
+        "listed_in": "Sci-Fi & Fantasy, Thriller"
+    },
+    {
+        "title": "Extraction",
+        "type": "Movie",
+        "director": "Sam Hargrave",
+        "country": "India",
+        "date_added": "April 24, 2020",
+        "release_year": 2020,
+        "rating": "R",
+        "duration": "117 min",
+        "listed_in": "Action & Adventure, Thriller"
+    },
+    {
+        "title": "BoJack Horseman",
+        "type": "TV Show",
+        "director": "Raphael Bob-Waksberg",
+        "country": "United States",
+        "date_added": "August 22, 2014",
+        "release_year": 2014,
+        "rating": "TV-MA",
+        "duration": "6 Seasons",
+        "listed_in": "Comedy, Drama, Animation"
+    }
+]
