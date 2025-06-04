@@ -1,10 +1,3 @@
-Projects/
-└── Assignments/
-    └── Netflix_User_Analysis/
-    └── Sales_Dashboard/
-        └── dashboard.ipynb
-        └── data.json
-
 ## Sales Dashboard 📊
 
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-yellow)
