@@ -1,9 +1,3 @@
-Projects/
-└── Assignments/
-    └── Netflix_User_Analysis/
-        ├── netflix_data.json
-        └── README.md
-
 # 🎬 Netflix User Analysis 📊
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
