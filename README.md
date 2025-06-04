@@ -3,7 +3,7 @@
 ![Build](https://img.shields.io/badge/Build-Actively_Developing-blue)
 ![Tech Stack](https://img.shields.io/badge/TechStack-Python%20%7C%20Jupyter%20%7C%20JSON-informational)
 ![Focus](https://img.shields.io/badge/Focus-Data%20Science%20%26%20Automation-green)
-![Progress](https://img.shields.io/badge/Progress-0%25_Projects-red)
+![Progress](https://img.shields.io/badge/Progress-0%2F5_Projects-red)
 ![Progress](https://img.shields.io/badge/Progress-2%2F5_Assignments-cyan)
 
 
