@@ -17,7 +17,7 @@ These are **project-ready notebooks**, not textbook drills. All assignments are 
 
 | Assignment | Topics Covered | Dataset Format | Visuals Used |
 |-----------|----------------|----------------|---------------|
-| [Netflix User Analysis](./Netflix_User_Analysis) | Pandas, NumPy, Matplotlib | JSON | Pie, Bar, Horizontal, Stack, Subplots |
+| [Netflix User Analysis]() | Pandas, NumPy, Matplotlib | JSON | Pie, Bar, Horizontal, Stack, Subplots |
 | [Sales Dashboard](./Sales_Dashboard) | Pandas, Matplotlib | JSON | Pie, Bar, Scatter, Line|
 
 ---
