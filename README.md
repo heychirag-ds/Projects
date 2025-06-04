@@ -26,10 +26,10 @@ Projects/
 │       ├── netflix_data.json
 │       ├── analysis_notebook.ipynb
 │       └── README.md
-|   └── Sales_Dashboard/
-|       ├── dashboard.ipynb
-|       ├── data.json
-|       ├── README.md  
+│  └── Sales_Dashboard/
+│      ├── dashboard.ipynb
+│       ├── data.json
+│      ├── README.md  
 ├── Projects/           # Full-scale UI or Non-UI Projects
 │   └── <coming soon>
 └── README.md           # You're here
