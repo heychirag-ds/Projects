@@ -1,0 +1,1002 @@
+[
+    {
+        "EmployeeID": 1,
+        "Name": "Lori Rich",
+        "Department": "Finance",
+        "TasksCompleted": 104,
+        "HoursWorked": 34.6,
+        "SatisfactionScore": 1.5,
+        "TenureMonths": 99,
+        "JoiningDate": "2023-02-28"
+    },
+    {
+        "EmployeeID": 2,
+        "Name": "Heather Joseph",
+        "Department": "Support",
+        "TasksCompleted": 146,
+        "HoursWorked": 40.4,
+        "SatisfactionScore": 1.41,
+        "TenureMonths": 110,
+        "JoiningDate": "2021-10-22"
+    },
+    {
+        "EmployeeID": 3,
+        "Name": "Benjamin Murillo",
+        "Department": "HR",
+        "TasksCompleted": 13,
+        "HoursWorked": 22.3,
+        "SatisfactionScore": 4.57,
+        "TenureMonths": 9,
+        "JoiningDate": "2024-07-25"
+    },
+    {
+        "EmployeeID": 4,
+        "Name": "Christopher Torres",
+        "Department": "Marketing",
+        "TasksCompleted": 118,
+        "HoursWorked": 31.7,
+        "SatisfactionScore": 3.75,
+        "TenureMonths": 53,
+        "JoiningDate": "2021-07-01"
+    },
+    {
+        "EmployeeID": 5,
+        "Name": "Brittany Richardson",
+        "Department": "Support",
+        "TasksCompleted": 76,
+        "HoursWorked": 53.1,
+        "SatisfactionScore": 1.79,
+        "TenureMonths": 34,
+        "JoiningDate": "2020-08-13"
+    },
+    {
+        "EmployeeID": 6,
+        "Name": "Ana Rogers",
+        "Department": "Finance",
+        "TasksCompleted": 141,
+        "HoursWorked": 51.7,
+        "SatisfactionScore": 1.42,
+        "TenureMonths": 87,
+        "JoiningDate": "2023-07-07"
+    },
+    {
+        "EmployeeID": 7,
+        "Name": "Stephanie Thompson",
+        "Department": "Sales",
+        "TasksCompleted": 80,
+        "HoursWorked": 46.7,
+        "SatisfactionScore": 1.79,
+        "TenureMonths": 61,
+        "JoiningDate": "2024-09-30"
+    },
+    {
+        "EmployeeID": 8,
+        "Name": "Gina Cook",
+        "Department": "Support",
+        "TasksCompleted": 21,
+        "HoursWorked": 22.9,
+        "SatisfactionScore": 3.41,
+        "TenureMonths": 51,
+        "JoiningDate": "2022-07-07"
+    },
+    {
+        "EmployeeID": 9,
+        "Name": "Lori Sanders",
+        "Department": "Marketing",
+        "TasksCompleted": 125,
+        "HoursWorked": 52.2,
+        "SatisfactionScore": 2.47,
+        "TenureMonths": 85,
+        "JoiningDate": "2020-12-08"
+    },
+    {
+        "EmployeeID": 10,
+        "Name": "John Horton",
+        "Department": "Support",
+        "TasksCompleted": 61,
+        "HoursWorked": 40.9,
+        "SatisfactionScore": 3.66,
+        "TenureMonths": 18,
+        "JoiningDate": "2024-10-17"
+    },
+    {
+        "EmployeeID": 11,
+        "Name": "Mrs. Bianca Strickland",
+        "Department": "Marketing",
+        "TasksCompleted": 121,
+        "HoursWorked": 39.3,
+        "SatisfactionScore": 2.85,
+        "TenureMonths": 91,
+        "JoiningDate": "2023-03-06"
+    },
+    {
+        "EmployeeID": 12,
+        "Name": "Daniel Lee",
+        "Department": "Finance",
+        "TasksCompleted": 72,
+        "HoursWorked": 21.7,
+        "SatisfactionScore": 2.16,
+        "TenureMonths": 86,
+        "JoiningDate": "2020-12-01"
+    },
+    {
+        "EmployeeID": 13,
+        "Name": "Pam Greene",
+        "Department": "Support",
+        "TasksCompleted": 70,
+        "HoursWorked": 29.0,
+        "SatisfactionScore": 2.05,
+        "TenureMonths": 10,
+        "JoiningDate": "2020-11-25"
+    },
+    {
+        "EmployeeID": 14,
+        "Name": "Ruth Jones",
+        "Department": "Engineering",
+        "TasksCompleted": 26,
+        "HoursWorked": 48.4,
+        "SatisfactionScore": 4.65,
+        "TenureMonths": 29,
+        "JoiningDate": "2024-05-06"
+    },
+    {
+        "EmployeeID": 15,
+        "Name": "Cathy Miller",
+        "Department": "HR",
+        "TasksCompleted": 109,
+        "HoursWorked": 38.7,
+        "SatisfactionScore": 3.91,
+        "TenureMonths": 62,
+        "JoiningDate": "2023-04-30"
+    },
+    {
+        "EmployeeID": 16,
+        "Name": "Michelle Robbins",
+        "Department": "Engineering",
+        "TasksCompleted": 30,
+        "HoursWorked": 55.7,
+        "SatisfactionScore": 1.5,
+        "TenureMonths": 5,
+        "JoiningDate": "2021-10-04"
+    },
+    {
+        "EmployeeID": 17,
+        "Name": "Willie Day",
+        "Department": "Marketing",
+        "TasksCompleted": 118,
+        "HoursWorked": 55.8,
+        "SatisfactionScore": 1.64,
+        "TenureMonths": 40,
+        "JoiningDate": "2023-03-25"
+    },
+    {
+        "EmployeeID": 18,
+        "Name": "Rachel Johnson",
+        "Department": "Finance",
+        "TasksCompleted": 86,
+        "HoursWorked": 52.7,
+        "SatisfactionScore": 1.68,
+        "TenureMonths": 87,
+        "JoiningDate": "2020-01-21"
+    },
+    {
+        "EmployeeID": 19,
+        "Name": "Walter Garcia",
+        "Department": "Sales",
+        "TasksCompleted": 141,
+        "HoursWorked": 47.3,
+        "SatisfactionScore": 2.06,
+        "TenureMonths": 20,
+        "JoiningDate": "2023-05-31"
+    },
+    {
+        "EmployeeID": 20,
+        "Name": "Travis Pearson",
+        "Department": "Finance",
+        "TasksCompleted": 121,
+        "HoursWorked": 59.6,
+        "SatisfactionScore": 1.5,
+        "TenureMonths": 118,
+        "JoiningDate": "2021-09-27"
+    },
+    {
+        "EmployeeID": 21,
+        "Name": "Theresa Branch",
+        "Department": "Marketing",
+        "TasksCompleted": 69,
+        "HoursWorked": 39.7,
+        "SatisfactionScore": 2.8,
+        "TenureMonths": 102,
+        "JoiningDate": "2020-04-24"
+    },
+    {
+        "EmployeeID": 22,
+        "Name": "Darrell Miranda",
+        "Department": "HR",
+        "TasksCompleted": 61,
+        "HoursWorked": 53.2,
+        "SatisfactionScore": 3.43,
+        "TenureMonths": 75,
+        "JoiningDate": "2025-01-01"
+    },
+    {
+        "EmployeeID": 23,
+        "Name": "Jennifer Johnson",
+        "Department": "Support",
+        "TasksCompleted": 74,
+        "HoursWorked": 53.9,
+        "SatisfactionScore": 4.24,
+        "TenureMonths": 70,
+        "JoiningDate": "2024-03-15"
+    },
+    {
+        "EmployeeID": 24,
+        "Name": "Daniel Garcia",
+        "Department": "HR",
+        "TasksCompleted": 94,
+        "HoursWorked": 25.4,
+        "SatisfactionScore": 3.17,
+        "TenureMonths": 16,
+        "JoiningDate": "2024-06-17"
+    },
+    {
+        "EmployeeID": 25,
+        "Name": "Patricia Klein",
+        "Department": "Support",
+        "TasksCompleted": 85,
+        "HoursWorked": 40.2,
+        "SatisfactionScore": 1.26,
+        "TenureMonths": 66,
+        "JoiningDate": "2020-01-29"
+    },
+    {
+        "EmployeeID": 26,
+        "Name": "Keith Mann",
+        "Department": "Marketing",
+        "TasksCompleted": 80,
+        "HoursWorked": 43.0,
+        "SatisfactionScore": 1.11,
+        "TenureMonths": 35,
+        "JoiningDate": "2021-12-15"
+    },
+    {
+        "EmployeeID": 27,
+        "Name": "Katelyn Hernandez",
+        "Department": "Sales",
+        "TasksCompleted": 143,
+        "HoursWorked": 38.9,
+        "SatisfactionScore": 4.55,
+        "TenureMonths": 65,
+        "JoiningDate": "2023-12-25"
+    },
+    {
+        "EmployeeID": 28,
+        "Name": "John Hoffman",
+        "Department": "Engineering",
+        "TasksCompleted": 118,
+        "HoursWorked": 37.2,
+        "SatisfactionScore": 3.18,
+        "TenureMonths": 27,
+        "JoiningDate": "2022-01-19"
+    },
+    {
+        "EmployeeID": 29,
+        "Name": "Rachel Torres",
+        "Department": "Finance",
+        "TasksCompleted": 85,
+        "HoursWorked": 36.9,
+        "SatisfactionScore": 4.41,
+        "TenureMonths": 94,
+        "JoiningDate": "2023-10-13"
+    },
+    {
+        "EmployeeID": 30,
+        "Name": "Katelyn Jackson",
+        "Department": "Support",
+        "TasksCompleted": 48,
+        "HoursWorked": 46.9,
+        "SatisfactionScore": 2.78,
+        "TenureMonths": 108,
+        "JoiningDate": "2022-06-10"
+    },
+    {
+        "EmployeeID": 31,
+        "Name": "James Hayes",
+        "Department": "HR",
+        "TasksCompleted": 63,
+        "HoursWorked": 37.9,
+        "SatisfactionScore": 2.43,
+        "TenureMonths": 16,
+        "JoiningDate": "2024-03-26"
+    },
+    {
+        "EmployeeID": 32,
+        "Name": "Joshua Cunningham",
+        "Department": "Marketing",
+        "TasksCompleted": 145,
+        "HoursWorked": 41.7,
+        "SatisfactionScore": 3.05,
+        "TenureMonths": 8,
+        "JoiningDate": "2025-03-13"
+    },
+    {
+        "EmployeeID": 33,
+        "Name": "Carla Duncan",
+        "Department": "Support",
+        "TasksCompleted": 99,
+        "HoursWorked": 57.1,
+        "SatisfactionScore": 3.66,
+        "TenureMonths": 33,
+        "JoiningDate": "2021-09-23"
+    },
+    {
+        "EmployeeID": 34,
+        "Name": "Phillip Stanley",
+        "Department": "HR",
+        "TasksCompleted": 41,
+        "HoursWorked": 45.7,
+        "SatisfactionScore": 4.35,
+        "TenureMonths": 106,
+        "JoiningDate": "2022-12-03"
+    },
+    {
+        "EmployeeID": 35,
+        "Name": "Cody Schmidt",
+        "Department": "Sales",
+        "TasksCompleted": 63,
+        "HoursWorked": 31.9,
+        "SatisfactionScore": 3.05,
+        "TenureMonths": 85,
+        "JoiningDate": "2024-04-16"
+    },
+    {
+        "EmployeeID": 36,
+        "Name": "Maria Martinez",
+        "Department": "Sales",
+        "TasksCompleted": 11,
+        "HoursWorked": 43.5,
+        "SatisfactionScore": 1.24,
+        "TenureMonths": 98,
+        "JoiningDate": "2020-07-31"
+    },
+    {
+        "EmployeeID": 37,
+        "Name": "Melissa West",
+        "Department": "Marketing",
+        "TasksCompleted": 150,
+        "HoursWorked": 39.4,
+        "SatisfactionScore": 4.16,
+        "TenureMonths": 41,
+        "JoiningDate": "2023-08-01"
+    },
+    {
+        "EmployeeID": 38,
+        "Name": "Danielle Adams",
+        "Department": "Finance",
+        "TasksCompleted": 89,
+        "HoursWorked": 43.2,
+        "SatisfactionScore": 2.5,
+        "TenureMonths": 82,
+        "JoiningDate": "2022-08-31"
+    },
+    {
+        "EmployeeID": 39,
+        "Name": "Stacy Schmidt",
+        "Department": "Finance",
+        "TasksCompleted": 42,
+        "HoursWorked": 41.9,
+        "SatisfactionScore": 2.78,
+        "TenureMonths": 19,
+        "JoiningDate": "2020-09-19"
+    },
+    {
+        "EmployeeID": 40,
+        "Name": "Anne Gutierrez DVM",
+        "Department": "Engineering",
+        "TasksCompleted": 34,
+        "HoursWorked": 52.4,
+        "SatisfactionScore": 4.03,
+        "TenureMonths": 89,
+        "JoiningDate": "2022-04-15"
+    },
+    {
+        "EmployeeID": 41,
+        "Name": "Michele Russo",
+        "Department": "Marketing",
+        "TasksCompleted": 58,
+        "HoursWorked": 40.7,
+        "SatisfactionScore": 3.25,
+        "TenureMonths": 69,
+        "JoiningDate": "2020-05-24"
+    },
+    {
+        "EmployeeID": 42,
+        "Name": "Glenn Zimmerman",
+        "Department": "Finance",
+        "TasksCompleted": 32,
+        "HoursWorked": 54.5,
+        "SatisfactionScore": 4.93,
+        "TenureMonths": 17,
+        "JoiningDate": "2024-03-16"
+    },
+    {
+        "EmployeeID": 43,
+        "Name": "Vickie Nguyen",
+        "Department": "Marketing",
+        "TasksCompleted": 83,
+        "HoursWorked": 49.6,
+        "SatisfactionScore": 1.55,
+        "TenureMonths": 67,
+        "JoiningDate": "2022-09-19"
+    },
+    {
+        "EmployeeID": 44,
+        "Name": "Michael Castaneda",
+        "Department": "Finance",
+        "TasksCompleted": 41,
+        "HoursWorked": 50.4,
+        "SatisfactionScore": 4.45,
+        "TenureMonths": 108,
+        "JoiningDate": "2021-07-03"
+    },
+    {
+        "EmployeeID": 45,
+        "Name": "Brian Ortega",
+        "Department": "Support",
+        "TasksCompleted": 96,
+        "HoursWorked": 45.7,
+        "SatisfactionScore": 3.18,
+        "TenureMonths": 92,
+        "JoiningDate": "2024-05-19"
+    },
+    {
+        "EmployeeID": 46,
+        "Name": "Mary Nash",
+        "Department": "Support",
+        "TasksCompleted": 82,
+        "HoursWorked": 29.6,
+        "SatisfactionScore": 4.9,
+        "TenureMonths": 31,
+        "JoiningDate": "2023-05-09"
+    },
+    {
+        "EmployeeID": 47,
+        "Name": "Patricia Rodriguez",
+        "Department": "Marketing",
+        "TasksCompleted": 28,
+        "HoursWorked": 26.8,
+        "SatisfactionScore": 2.02,
+        "TenureMonths": 52,
+        "JoiningDate": "2024-05-31"
+    },
+    {
+        "EmployeeID": 48,
+        "Name": "Michael Cabrera",
+        "Department": "Engineering",
+        "TasksCompleted": 49,
+        "HoursWorked": 43.7,
+        "SatisfactionScore": 4.74,
+        "TenureMonths": 118,
+        "JoiningDate": "2021-10-20"
+    },
+    {
+        "EmployeeID": 49,
+        "Name": "Laura Bowers",
+        "Department": "Marketing",
+        "TasksCompleted": 13,
+        "HoursWorked": 25.9,
+        "SatisfactionScore": 4.34,
+        "TenureMonths": 27,
+        "JoiningDate": "2022-05-23"
+    },
+    {
+        "EmployeeID": 50,
+        "Name": "Ryan Benton",
+        "Department": "Engineering",
+        "TasksCompleted": 51,
+        "HoursWorked": 53.4,
+        "SatisfactionScore": 1.95,
+        "TenureMonths": 101,
+        "JoiningDate": "2023-12-04"
+    },
+    {
+        "EmployeeID": 51,
+        "Name": "Deanna Zhang",
+        "Department": "Support",
+        "TasksCompleted": 126,
+        "HoursWorked": 41.9,
+        "SatisfactionScore": 2.71,
+        "TenureMonths": 103,
+        "JoiningDate": "2020-11-25"
+    },
+    {
+        "EmployeeID": 52,
+        "Name": "Justin Fuller",
+        "Department": "Support",
+        "TasksCompleted": 82,
+        "HoursWorked": 35.3,
+        "SatisfactionScore": 1.48,
+        "TenureMonths": 39,
+        "JoiningDate": "2020-02-20"
+    },
+    {
+        "EmployeeID": 53,
+        "Name": "Jasmine Johnson",
+        "Department": "Sales",
+        "TasksCompleted": 58,
+        "HoursWorked": 49.2,
+        "SatisfactionScore": 2.41,
+        "TenureMonths": 67,
+        "JoiningDate": "2020-03-31"
+    },
+    {
+        "EmployeeID": 54,
+        "Name": "Krystal Payne",
+        "Department": "HR",
+        "TasksCompleted": 18,
+        "HoursWorked": 32.1,
+        "SatisfactionScore": 4.36,
+        "TenureMonths": 66,
+        "JoiningDate": "2021-03-24"
+    },
+    {
+        "EmployeeID": 55,
+        "Name": "Jose Scott",
+        "Department": "Engineering",
+        "TasksCompleted": 33,
+        "HoursWorked": 38.1,
+        "SatisfactionScore": 2.49,
+        "TenureMonths": 56,
+        "JoiningDate": "2024-03-27"
+    },
+    {
+        "EmployeeID": 56,
+        "Name": "Jacob Anderson",
+        "Department": "Engineering",
+        "TasksCompleted": 87,
+        "HoursWorked": 57.5,
+        "SatisfactionScore": 2.25,
+        "TenureMonths": 44,
+        "JoiningDate": "2023-12-10"
+    },
+    {
+        "EmployeeID": 57,
+        "Name": "Matthew Williams",
+        "Department": "Finance",
+        "TasksCompleted": 64,
+        "HoursWorked": 60.0,
+        "SatisfactionScore": 1.96,
+        "TenureMonths": 63,
+        "JoiningDate": "2021-08-24"
+    },
+    {
+        "EmployeeID": 58,
+        "Name": "Shelley Romero",
+        "Department": "Engineering",
+        "TasksCompleted": 28,
+        "HoursWorked": 33.7,
+        "SatisfactionScore": 3.77,
+        "TenureMonths": 54,
+        "JoiningDate": "2023-12-07"
+    },
+    {
+        "EmployeeID": 59,
+        "Name": "Angel Green",
+        "Department": "Sales",
+        "TasksCompleted": 13,
+        "HoursWorked": 43.2,
+        "SatisfactionScore": 1.41,
+        "TenureMonths": 17,
+        "JoiningDate": "2022-01-30"
+    },
+    {
+        "EmployeeID": 60,
+        "Name": "Ashley Cross",
+        "Department": "Sales",
+        "TasksCompleted": 27,
+        "HoursWorked": 51.2,
+        "SatisfactionScore": 1.77,
+        "TenureMonths": 73,
+        "JoiningDate": "2023-05-28"
+    },
+    {
+        "EmployeeID": 61,
+        "Name": "Marissa Trujillo",
+        "Department": "Marketing",
+        "TasksCompleted": 33,
+        "HoursWorked": 41.6,
+        "SatisfactionScore": 4.31,
+        "TenureMonths": 73,
+        "JoiningDate": "2024-10-25"
+    },
+    {
+        "EmployeeID": 62,
+        "Name": "Tanner Adams",
+        "Department": "Sales",
+        "TasksCompleted": 97,
+        "HoursWorked": 35.6,
+        "SatisfactionScore": 2.15,
+        "TenureMonths": 102,
+        "JoiningDate": "2021-10-16"
+    },
+    {
+        "EmployeeID": 63,
+        "Name": "Rick Fisher",
+        "Department": "Support",
+        "TasksCompleted": 114,
+        "HoursWorked": 32.3,
+        "SatisfactionScore": 2.49,
+        "TenureMonths": 106,
+        "JoiningDate": "2024-10-26"
+    },
+    {
+        "EmployeeID": 64,
+        "Name": "Nancy Aguilar",
+        "Department": "Finance",
+        "TasksCompleted": 106,
+        "HoursWorked": 54.9,
+        "SatisfactionScore": 3.44,
+        "TenureMonths": 98,
+        "JoiningDate": "2022-05-08"
+    },
+    {
+        "EmployeeID": 65,
+        "Name": "Julie Brown",
+        "Department": "Engineering",
+        "TasksCompleted": 129,
+        "HoursWorked": 27.3,
+        "SatisfactionScore": 1.28,
+        "TenureMonths": 103,
+        "JoiningDate": "2022-09-06"
+    },
+    {
+        "EmployeeID": 66,
+        "Name": "Melissa Simpson",
+        "Department": "Marketing",
+        "TasksCompleted": 53,
+        "HoursWorked": 55.2,
+        "SatisfactionScore": 2.85,
+        "TenureMonths": 118,
+        "JoiningDate": "2024-05-14"
+    },
+    {
+        "EmployeeID": 67,
+        "Name": "Nicholas Mckinney",
+        "Department": "Marketing",
+        "TasksCompleted": 27,
+        "HoursWorked": 42.0,
+        "SatisfactionScore": 1.16,
+        "TenureMonths": 72,
+        "JoiningDate": "2023-03-22"
+    },
+    {
+        "EmployeeID": 68,
+        "Name": "Thomas Perez",
+        "Department": "Sales",
+        "TasksCompleted": 45,
+        "HoursWorked": 32.5,
+        "SatisfactionScore": 1.91,
+        "TenureMonths": 63,
+        "JoiningDate": "2023-05-06"
+    },
+    {
+        "EmployeeID": 69,
+        "Name": "Robert Duncan",
+        "Department": "Support",
+        "TasksCompleted": 105,
+        "HoursWorked": 33.1,
+        "SatisfactionScore": 3.93,
+        "TenureMonths": 66,
+        "JoiningDate": "2024-07-07"
+    },
+    {
+        "EmployeeID": 70,
+        "Name": "Mrs. Deanna Petersen MD",
+        "Department": "HR",
+        "TasksCompleted": 132,
+        "HoursWorked": 57.8,
+        "SatisfactionScore": 4.48,
+        "TenureMonths": 38,
+        "JoiningDate": "2020-02-18"
+    },
+    {
+        "EmployeeID": 71,
+        "Name": "Michael Ingram MD",
+        "Department": "Support",
+        "TasksCompleted": 150,
+        "HoursWorked": 42.0,
+        "SatisfactionScore": 3.83,
+        "TenureMonths": 6,
+        "JoiningDate": "2020-10-02"
+    },
+    {
+        "EmployeeID": 72,
+        "Name": "Courtney Campbell",
+        "Department": "Marketing",
+        "TasksCompleted": 41,
+        "HoursWorked": 23.1,
+        "SatisfactionScore": 1.61,
+        "TenureMonths": 29,
+        "JoiningDate": "2023-01-18"
+    },
+    {
+        "EmployeeID": 73,
+        "Name": "Scott Wallace",
+        "Department": "Marketing",
+        "TasksCompleted": 63,
+        "HoursWorked": 34.9,
+        "SatisfactionScore": 3.82,
+        "TenureMonths": 20,
+        "JoiningDate": "2024-02-14"
+    },
+    {
+        "EmployeeID": 74,
+        "Name": "Arthur Johnson",
+        "Department": "Engineering",
+        "TasksCompleted": 116,
+        "HoursWorked": 26.3,
+        "SatisfactionScore": 3.04,
+        "TenureMonths": 32,
+        "JoiningDate": "2024-01-03"
+    },
+    {
+        "EmployeeID": 75,
+        "Name": "Cathy Sullivan",
+        "Department": "Finance",
+        "TasksCompleted": 41,
+        "HoursWorked": 55.7,
+        "SatisfactionScore": 3.99,
+        "TenureMonths": 20,
+        "JoiningDate": "2020-01-31"
+    },
+    {
+        "EmployeeID": 76,
+        "Name": "Robert Garza",
+        "Department": "Sales",
+        "TasksCompleted": 88,
+        "HoursWorked": 29.1,
+        "SatisfactionScore": 4.41,
+        "TenureMonths": 100,
+        "JoiningDate": "2023-03-08"
+    },
+    {
+        "EmployeeID": 77,
+        "Name": "James Bennett",
+        "Department": "Sales",
+        "TasksCompleted": 125,
+        "HoursWorked": 21.6,
+        "SatisfactionScore": 1.42,
+        "TenureMonths": 70,
+        "JoiningDate": "2023-09-28"
+    },
+    {
+        "EmployeeID": 78,
+        "Name": "Kylie Kim",
+        "Department": "HR",
+        "TasksCompleted": 52,
+        "HoursWorked": 23.2,
+        "SatisfactionScore": 1.53,
+        "TenureMonths": 70,
+        "JoiningDate": "2024-09-20"
+    },
+    {
+        "EmployeeID": 79,
+        "Name": "Matthew Bennett",
+        "Department": "HR",
+        "TasksCompleted": 147,
+        "HoursWorked": 53.9,
+        "SatisfactionScore": 4.39,
+        "TenureMonths": 11,
+        "JoiningDate": "2020-11-05"
+    },
+    {
+        "EmployeeID": 80,
+        "Name": "David Mcintyre",
+        "Department": "HR",
+        "TasksCompleted": 56,
+        "HoursWorked": 21.9,
+        "SatisfactionScore": 3.79,
+        "TenureMonths": 76,
+        "JoiningDate": "2022-08-06"
+    },
+    {
+        "EmployeeID": 81,
+        "Name": "Tracy Whitehead",
+        "Department": "Marketing",
+        "TasksCompleted": 112,
+        "HoursWorked": 55.2,
+        "SatisfactionScore": 1.33,
+        "TenureMonths": 71,
+        "JoiningDate": "2020-01-19"
+    },
+    {
+        "EmployeeID": 82,
+        "Name": "Rita Romero",
+        "Department": "Engineering",
+        "TasksCompleted": 71,
+        "HoursWorked": 49.3,
+        "SatisfactionScore": 3.17,
+        "TenureMonths": 99,
+        "JoiningDate": "2023-09-17"
+    },
+    {
+        "EmployeeID": 83,
+        "Name": "Brandy Goodwin",
+        "Department": "Sales",
+        "TasksCompleted": 25,
+        "HoursWorked": 20.5,
+        "SatisfactionScore": 1.72,
+        "TenureMonths": 29,
+        "JoiningDate": "2022-03-02"
+    },
+    {
+        "EmployeeID": 84,
+        "Name": "Jeremiah Hernandez",
+        "Department": "HR",
+        "TasksCompleted": 137,
+        "HoursWorked": 54.5,
+        "SatisfactionScore": 2.49,
+        "TenureMonths": 63,
+        "JoiningDate": "2024-12-29"
+    },
+    {
+        "EmployeeID": 85,
+        "Name": "Micheal Baxter",
+        "Department": "Engineering",
+        "TasksCompleted": 18,
+        "HoursWorked": 47.9,
+        "SatisfactionScore": 2.83,
+        "TenureMonths": 20,
+        "JoiningDate": "2023-10-18"
+    },
+    {
+        "EmployeeID": 86,
+        "Name": "Jennifer Snyder",
+        "Department": "Support",
+        "TasksCompleted": 41,
+        "HoursWorked": 30.1,
+        "SatisfactionScore": 2.48,
+        "TenureMonths": 35,
+        "JoiningDate": "2021-05-01"
+    },
+    {
+        "EmployeeID": 87,
+        "Name": "Stephanie Jones",
+        "Department": "Support",
+        "TasksCompleted": 26,
+        "HoursWorked": 43.0,
+        "SatisfactionScore": 2.61,
+        "TenureMonths": 7,
+        "JoiningDate": "2023-01-19"
+    },
+    {
+        "EmployeeID": 88,
+        "Name": "Donald Oconnell",
+        "Department": "Support",
+        "TasksCompleted": 21,
+        "HoursWorked": 35.0,
+        "SatisfactionScore": 1.68,
+        "TenureMonths": 59,
+        "JoiningDate": "2020-01-22"
+    },
+    {
+        "EmployeeID": 89,
+        "Name": "Jacob Davis",
+        "Department": "Marketing",
+        "TasksCompleted": 117,
+        "HoursWorked": 46.0,
+        "SatisfactionScore": 1.26,
+        "TenureMonths": 21,
+        "JoiningDate": "2022-02-04"
+    },
+    {
+        "EmployeeID": 90,
+        "Name": "Carol Butler",
+        "Department": "Finance",
+        "TasksCompleted": 69,
+        "HoursWorked": 40.6,
+        "SatisfactionScore": 1.74,
+        "TenureMonths": 27,
+        "JoiningDate": "2020-04-06"
+    },
+    {
+        "EmployeeID": 91,
+        "Name": "Laura Gonzalez",
+        "Department": "Sales",
+        "TasksCompleted": 134,
+        "HoursWorked": 39.0,
+        "SatisfactionScore": 2.72,
+        "TenureMonths": 13,
+        "JoiningDate": "2020-09-12"
+    },
+    {
+        "EmployeeID": 92,
+        "Name": "Laura Hill",
+        "Department": "HR",
+        "TasksCompleted": 39,
+        "HoursWorked": 45.6,
+        "SatisfactionScore": 2.16,
+        "TenureMonths": 97,
+        "JoiningDate": "2023-01-24"
+    },
+    {
+        "EmployeeID": 93,
+        "Name": "Melissa Harvey",
+        "Department": "Marketing",
+        "TasksCompleted": 93,
+        "HoursWorked": 30.9,
+        "SatisfactionScore": 2.34,
+        "TenureMonths": 29,
+        "JoiningDate": "2021-11-24"
+    },
+    {
+        "EmployeeID": 94,
+        "Name": "Kristin Lam",
+        "Department": "Finance",
+        "TasksCompleted": 33,
+        "HoursWorked": 57.8,
+        "SatisfactionScore": 1.99,
+        "TenureMonths": 98,
+        "JoiningDate": "2021-07-27"
+    },
+    {
+        "EmployeeID": 95,
+        "Name": "Nathan Miles",
+        "Department": "Finance",
+        "TasksCompleted": 104,
+        "HoursWorked": 25.7,
+        "SatisfactionScore": 1.82,
+        "TenureMonths": 33,
+        "JoiningDate": "2022-02-19"
+    },
+    {
+        "EmployeeID": 96,
+        "Name": "Gary Martinez",
+        "Department": "Finance",
+        "TasksCompleted": 54,
+        "HoursWorked": 20.7,
+        "SatisfactionScore": 4.93,
+        "TenureMonths": 70,
+        "JoiningDate": "2022-02-11"
+    },
+    {
+        "EmployeeID": 97,
+        "Name": "Lindsey Howell",
+        "Department": "Finance",
+        "TasksCompleted": 114,
+        "HoursWorked": 21.9,
+        "SatisfactionScore": 2.62,
+        "TenureMonths": 88,
+        "JoiningDate": "2022-04-09"
+    },
+    {
+        "EmployeeID": 98,
+        "Name": "Paul Cline",
+        "Department": "Finance",
+        "TasksCompleted": 10,
+        "HoursWorked": 53.8,
+        "SatisfactionScore": 3.16,
+        "TenureMonths": 24,
+        "JoiningDate": "2020-06-02"
+    },
+    {
+        "EmployeeID": 99,
+        "Name": "Cindy Garcia",
+        "Department": "Support",
+        "TasksCompleted": 86,
+        "HoursWorked": 24.8,
+        "SatisfactionScore": 3.43,
+        "TenureMonths": 67,
+        "JoiningDate": "2022-03-23"
+    },
+    {
+        "EmployeeID": 100,
+        "Name": "Michelle Norris",
+        "Department": "Engineering",
+        "TasksCompleted": 28,
+        "HoursWorked": 37.3,
+        "SatisfactionScore": 2.64,
+        "TenureMonths": 51,
+        "JoiningDate": "2020-07-26"
+    }
+]

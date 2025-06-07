@@ -1,0 +1,1002 @@
+[
+    {
+        "DeliveryID": 1,
+        "Date": "2025-04-29",
+        "Region": "South",
+        "DistanceKm": 68.23,
+        "DeliveryTimeMin": 66.99,
+        "VehicleType": "Bike",
+        "FuelUsedL": 5.58,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 2,
+        "Date": "2025-03-16",
+        "Region": "South",
+        "DistanceKm": 60.78,
+        "DeliveryTimeMin": 90.93,
+        "VehicleType": "Car",
+        "FuelUsedL": 4.99,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 3,
+        "Date": "2025-03-10",
+        "Region": "West",
+        "DistanceKm": 64.86,
+        "DeliveryTimeMin": 53.45,
+        "VehicleType": "Car",
+        "FuelUsedL": 11.19,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 4,
+        "Date": "2025-01-09",
+        "Region": "North",
+        "DistanceKm": 21.83,
+        "DeliveryTimeMin": 24.03,
+        "VehicleType": "Car",
+        "FuelUsedL": 2.96,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 5,
+        "Date": "2025-03-22",
+        "Region": "East",
+        "DistanceKm": 44.94,
+        "DeliveryTimeMin": 42.23,
+        "VehicleType": "Truck",
+        "FuelUsedL": 2.98,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 6,
+        "Date": "2025-05-04",
+        "Region": "East",
+        "DistanceKm": 37.91,
+        "DeliveryTimeMin": 51.95,
+        "VehicleType": "Van",
+        "FuelUsedL": 4.85,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 7,
+        "Date": "2024-12-22",
+        "Region": "West",
+        "DistanceKm": 42.13,
+        "DeliveryTimeMin": 48.97,
+        "VehicleType": "Car",
+        "FuelUsedL": 7.02,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 8,
+        "Date": "2025-05-02",
+        "Region": "South",
+        "DistanceKm": 89.58,
+        "DeliveryTimeMin": 54.6,
+        "VehicleType": "Car",
+        "FuelUsedL": 8.09,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 9,
+        "Date": "2025-02-22",
+        "Region": "North",
+        "DistanceKm": 88.58,
+        "DeliveryTimeMin": 62.33,
+        "VehicleType": "Van",
+        "FuelUsedL": 15.04,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 10,
+        "Date": "2024-12-28",
+        "Region": "South",
+        "DistanceKm": 41.24,
+        "DeliveryTimeMin": 37.15,
+        "VehicleType": "Car",
+        "FuelUsedL": 5.8,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 11,
+        "Date": "2025-02-16",
+        "Region": "North",
+        "DistanceKm": 68.12,
+        "DeliveryTimeMin": 79.28,
+        "VehicleType": "Car",
+        "FuelUsedL": 13.13,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 12,
+        "Date": "2025-02-12",
+        "Region": "North",
+        "DistanceKm": 66.32,
+        "DeliveryTimeMin": 70.32,
+        "VehicleType": "Truck",
+        "FuelUsedL": 13.2,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 13,
+        "Date": "2024-12-13",
+        "Region": "South",
+        "DistanceKm": 56.92,
+        "DeliveryTimeMin": 52.0,
+        "VehicleType": "Car",
+        "FuelUsedL": 7.97,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 14,
+        "Date": "2025-03-11",
+        "Region": "East",
+        "DistanceKm": 72.43,
+        "DeliveryTimeMin": 71.83,
+        "VehicleType": "Bike",
+        "FuelUsedL": 8.17,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 15,
+        "Date": "2025-05-13",
+        "Region": "North",
+        "DistanceKm": 14.82,
+        "DeliveryTimeMin": 11.71,
+        "VehicleType": "Bike",
+        "FuelUsedL": 2.09,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 16,
+        "Date": "2024-12-08",
+        "Region": "West",
+        "DistanceKm": 39.33,
+        "DeliveryTimeMin": 57.54,
+        "VehicleType": "Bike",
+        "FuelUsedL": 3.59,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 17,
+        "Date": "2025-04-26",
+        "Region": "West",
+        "DistanceKm": 4.71,
+        "DeliveryTimeMin": 3.0,
+        "VehicleType": "Car",
+        "FuelUsedL": 0.27,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 18,
+        "Date": "2025-01-08",
+        "Region": "North",
+        "DistanceKm": 38.63,
+        "DeliveryTimeMin": 31.03,
+        "VehicleType": "Car",
+        "FuelUsedL": 4.42,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 19,
+        "Date": "2025-01-01",
+        "Region": "East",
+        "DistanceKm": 87.32,
+        "DeliveryTimeMin": 68.43,
+        "VehicleType": "Truck",
+        "FuelUsedL": 11.79,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 20,
+        "Date": "2025-04-27",
+        "Region": "South",
+        "DistanceKm": 46.5,
+        "DeliveryTimeMin": 62.08,
+        "VehicleType": "Car",
+        "FuelUsedL": 8.46,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 21,
+        "Date": "2025-02-18",
+        "Region": "North",
+        "DistanceKm": 92.12,
+        "DeliveryTimeMin": 103.59,
+        "VehicleType": "Car",
+        "FuelUsedL": 8.95,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 22,
+        "Date": "2025-03-24",
+        "Region": "South",
+        "DistanceKm": 21.83,
+        "DeliveryTimeMin": 21.01,
+        "VehicleType": "Van",
+        "FuelUsedL": 2.49,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 23,
+        "Date": "2024-12-15",
+        "Region": "North",
+        "DistanceKm": 34.9,
+        "DeliveryTimeMin": 23.13,
+        "VehicleType": "Truck",
+        "FuelUsedL": 3.42,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 24,
+        "Date": "2025-05-01",
+        "Region": "East",
+        "DistanceKm": 84.22,
+        "DeliveryTimeMin": 122.42,
+        "VehicleType": "Bike",
+        "FuelUsedL": 10.44,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 25,
+        "Date": "2025-05-24",
+        "Region": "East",
+        "DistanceKm": 43.12,
+        "DeliveryTimeMin": 46.33,
+        "VehicleType": "Bike",
+        "FuelUsedL": 2.98,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 26,
+        "Date": "2025-01-31",
+        "Region": "West",
+        "DistanceKm": 52.55,
+        "DeliveryTimeMin": 50.2,
+        "VehicleType": "Car",
+        "FuelUsedL": 3.6,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 27,
+        "Date": "2025-04-30",
+        "Region": "South",
+        "DistanceKm": 66.37,
+        "DeliveryTimeMin": 56.72,
+        "VehicleType": "Bike",
+        "FuelUsedL": 11.84,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 28,
+        "Date": "2025-05-09",
+        "Region": "West",
+        "DistanceKm": 46.14,
+        "DeliveryTimeMin": 30.56,
+        "VehicleType": "Van",
+        "FuelUsedL": 6.27,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 29,
+        "Date": "2025-05-21",
+        "Region": "South",
+        "DistanceKm": 44.83,
+        "DeliveryTimeMin": 42.94,
+        "VehicleType": "Car",
+        "FuelUsedL": 4.11,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 30,
+        "Date": "2025-04-29",
+        "Region": "West",
+        "DistanceKm": 37.79,
+        "DeliveryTimeMin": 50.92,
+        "VehicleType": "Car",
+        "FuelUsedL": 6.8,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 31,
+        "Date": "2025-03-17",
+        "Region": "East",
+        "DistanceKm": 94.49,
+        "DeliveryTimeMin": 111.0,
+        "VehicleType": "Van",
+        "FuelUsedL": 11.53,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 32,
+        "Date": "2025-05-25",
+        "Region": "West",
+        "DistanceKm": 11.29,
+        "DeliveryTimeMin": 16.74,
+        "VehicleType": "Van",
+        "FuelUsedL": 1.86,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 33,
+        "Date": "2025-03-12",
+        "Region": "North",
+        "DistanceKm": 91.86,
+        "DeliveryTimeMin": 77.46,
+        "VehicleType": "Truck",
+        "FuelUsedL": 14.05,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 34,
+        "Date": "2025-02-26",
+        "Region": "West",
+        "DistanceKm": 86.12,
+        "DeliveryTimeMin": 109.09,
+        "VehicleType": "Van",
+        "FuelUsedL": 14.08,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 35,
+        "Date": "2025-05-13",
+        "Region": "West",
+        "DistanceKm": 89.62,
+        "DeliveryTimeMin": 124.96,
+        "VehicleType": "Car",
+        "FuelUsedL": 9.47,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 36,
+        "Date": "2025-04-13",
+        "Region": "North",
+        "DistanceKm": 42.37,
+        "DeliveryTimeMin": 43.41,
+        "VehicleType": "Bike",
+        "FuelUsedL": 5.35,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 37,
+        "Date": "2025-03-05",
+        "Region": "North",
+        "DistanceKm": 22.94,
+        "DeliveryTimeMin": 30.61,
+        "VehicleType": "Bike",
+        "FuelUsedL": 2.35,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 38,
+        "Date": "2025-04-22",
+        "Region": "North",
+        "DistanceKm": 58.65,
+        "DeliveryTimeMin": 62.39,
+        "VehicleType": "Truck",
+        "FuelUsedL": 7.82,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 39,
+        "Date": "2025-05-13",
+        "Region": "North",
+        "DistanceKm": 39.39,
+        "DeliveryTimeMin": 45.67,
+        "VehicleType": "Truck",
+        "FuelUsedL": 4.51,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 40,
+        "Date": "2025-02-11",
+        "Region": "West",
+        "DistanceKm": 57.93,
+        "DeliveryTimeMin": 51.77,
+        "VehicleType": "Truck",
+        "FuelUsedL": 3.69,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 41,
+        "Date": "2025-04-19",
+        "Region": "North",
+        "DistanceKm": 23.68,
+        "DeliveryTimeMin": 16.35,
+        "VehicleType": "Bike",
+        "FuelUsedL": 4.0,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 42,
+        "Date": "2025-05-31",
+        "Region": "South",
+        "DistanceKm": 99.43,
+        "DeliveryTimeMin": 80.41,
+        "VehicleType": "Truck",
+        "FuelUsedL": 18.49,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 43,
+        "Date": "2024-12-28",
+        "Region": "North",
+        "DistanceKm": 92.23,
+        "DeliveryTimeMin": 95.0,
+        "VehicleType": "Truck",
+        "FuelUsedL": 17.05,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 44,
+        "Date": "2025-04-15",
+        "Region": "South",
+        "DistanceKm": 85.2,
+        "DeliveryTimeMin": 54.11,
+        "VehicleType": "Bike",
+        "FuelUsedL": 8.28,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 45,
+        "Date": "2024-12-14",
+        "Region": "West",
+        "DistanceKm": 65.2,
+        "DeliveryTimeMin": 74.83,
+        "VehicleType": "Van",
+        "FuelUsedL": 7.01,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 46,
+        "Date": "2025-05-12",
+        "Region": "East",
+        "DistanceKm": 10.79,
+        "DeliveryTimeMin": 11.73,
+        "VehicleType": "Truck",
+        "FuelUsedL": 1.09,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 47,
+        "Date": "2025-01-18",
+        "Region": "East",
+        "DistanceKm": 92.94,
+        "DeliveryTimeMin": 114.53,
+        "VehicleType": "Car",
+        "FuelUsedL": 4.96,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 48,
+        "Date": "2025-04-15",
+        "Region": "South",
+        "DistanceKm": 83.8,
+        "DeliveryTimeMin": 71.71,
+        "VehicleType": "Truck",
+        "FuelUsedL": 7.25,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 49,
+        "Date": "2025-02-17",
+        "Region": "South",
+        "DistanceKm": 98.34,
+        "DeliveryTimeMin": 143.62,
+        "VehicleType": "Bike",
+        "FuelUsedL": 13.9,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 50,
+        "Date": "2025-05-17",
+        "Region": "North",
+        "DistanceKm": 70.39,
+        "DeliveryTimeMin": 68.28,
+        "VehicleType": "Bike",
+        "FuelUsedL": 6.55,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 51,
+        "Date": "2025-01-10",
+        "Region": "South",
+        "DistanceKm": 73.31,
+        "DeliveryTimeMin": 73.07,
+        "VehicleType": "Van",
+        "FuelUsedL": 4.03,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 52,
+        "Date": "2025-03-31",
+        "Region": "East",
+        "DistanceKm": 54.41,
+        "DeliveryTimeMin": 36.88,
+        "VehicleType": "Van",
+        "FuelUsedL": 3.83,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 53,
+        "Date": "2025-05-28",
+        "Region": "West",
+        "DistanceKm": 20.02,
+        "DeliveryTimeMin": 19.58,
+        "VehicleType": "Truck",
+        "FuelUsedL": 2.56,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 54,
+        "Date": "2025-02-16",
+        "Region": "West",
+        "DistanceKm": 26.76,
+        "DeliveryTimeMin": 20.22,
+        "VehicleType": "Bike",
+        "FuelUsedL": 2.64,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 55,
+        "Date": "2024-12-28",
+        "Region": "North",
+        "DistanceKm": 75.18,
+        "DeliveryTimeMin": 57.99,
+        "VehicleType": "Truck",
+        "FuelUsedL": 4.44,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 56,
+        "Date": "2025-01-05",
+        "Region": "South",
+        "DistanceKm": 10.15,
+        "DeliveryTimeMin": 12.0,
+        "VehicleType": "Van",
+        "FuelUsedL": 1.68,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 57,
+        "Date": "2025-01-19",
+        "Region": "West",
+        "DistanceKm": 3.48,
+        "DeliveryTimeMin": 3.68,
+        "VehicleType": "Truck",
+        "FuelUsedL": 0.7,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 58,
+        "Date": "2025-04-02",
+        "Region": "North",
+        "DistanceKm": 44.57,
+        "DeliveryTimeMin": 60.24,
+        "VehicleType": "Truck",
+        "FuelUsedL": 3.35,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 59,
+        "Date": "2025-01-12",
+        "Region": "East",
+        "DistanceKm": 34.39,
+        "DeliveryTimeMin": 35.8,
+        "VehicleType": "Van",
+        "FuelUsedL": 3.53,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 60,
+        "Date": "2024-12-27",
+        "Region": "North",
+        "DistanceKm": 86.1,
+        "DeliveryTimeMin": 100.05,
+        "VehicleType": "Car",
+        "FuelUsedL": 6.85,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 61,
+        "Date": "2025-04-18",
+        "Region": "South",
+        "DistanceKm": 55.39,
+        "DeliveryTimeMin": 75.76,
+        "VehicleType": "Van",
+        "FuelUsedL": 10.06,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 62,
+        "Date": "2025-01-22",
+        "Region": "South",
+        "DistanceKm": 84.66,
+        "DeliveryTimeMin": 70.45,
+        "VehicleType": "Car",
+        "FuelUsedL": 14.52,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 63,
+        "Date": "2025-03-30",
+        "Region": "East",
+        "DistanceKm": 34.28,
+        "DeliveryTimeMin": 28.27,
+        "VehicleType": "Car",
+        "FuelUsedL": 4.85,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 64,
+        "Date": "2025-02-07",
+        "Region": "North",
+        "DistanceKm": 47.02,
+        "DeliveryTimeMin": 49.8,
+        "VehicleType": "Car",
+        "FuelUsedL": 7.42,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 65,
+        "Date": "2025-02-13",
+        "Region": "East",
+        "DistanceKm": 37.4,
+        "DeliveryTimeMin": 39.16,
+        "VehicleType": "Car",
+        "FuelUsedL": 5.79,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 66,
+        "Date": "2025-02-12",
+        "Region": "North",
+        "DistanceKm": 91.94,
+        "DeliveryTimeMin": 71.85,
+        "VehicleType": "Truck",
+        "FuelUsedL": 15.41,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 67,
+        "Date": "2025-06-05",
+        "Region": "West",
+        "DistanceKm": 34.03,
+        "DeliveryTimeMin": 29.24,
+        "VehicleType": "Car",
+        "FuelUsedL": 1.76,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 68,
+        "Date": "2025-05-22",
+        "Region": "South",
+        "DistanceKm": 81.72,
+        "DeliveryTimeMin": 51.97,
+        "VehicleType": "Car",
+        "FuelUsedL": 14.86,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 69,
+        "Date": "2024-12-22",
+        "Region": "South",
+        "DistanceKm": 34.86,
+        "DeliveryTimeMin": 44.07,
+        "VehicleType": "Car",
+        "FuelUsedL": 3.55,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 70,
+        "Date": "2025-03-05",
+        "Region": "South",
+        "DistanceKm": 39.93,
+        "DeliveryTimeMin": 46.41,
+        "VehicleType": "Car",
+        "FuelUsedL": 4.26,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 71,
+        "Date": "2025-01-01",
+        "Region": "West",
+        "DistanceKm": 25.47,
+        "DeliveryTimeMin": 19.85,
+        "VehicleType": "Car",
+        "FuelUsedL": 3.53,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 72,
+        "Date": "2025-05-01",
+        "Region": "North",
+        "DistanceKm": 13.4,
+        "DeliveryTimeMin": 12.75,
+        "VehicleType": "Truck",
+        "FuelUsedL": 1.08,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 73,
+        "Date": "2025-05-19",
+        "Region": "East",
+        "DistanceKm": 26.78,
+        "DeliveryTimeMin": 31.17,
+        "VehicleType": "Truck",
+        "FuelUsedL": 5.05,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 74,
+        "Date": "2025-02-25",
+        "Region": "North",
+        "DistanceKm": 42.4,
+        "DeliveryTimeMin": 27.75,
+        "VehicleType": "Van",
+        "FuelUsedL": 6.32,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 75,
+        "Date": "2024-12-20",
+        "Region": "East",
+        "DistanceKm": 47.72,
+        "DeliveryTimeMin": 59.63,
+        "VehicleType": "Truck",
+        "FuelUsedL": 9.43,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 76,
+        "Date": "2025-01-02",
+        "Region": "South",
+        "DistanceKm": 71.67,
+        "DeliveryTimeMin": 93.29,
+        "VehicleType": "Bike",
+        "FuelUsedL": 13.16,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 77,
+        "Date": "2025-06-02",
+        "Region": "West",
+        "DistanceKm": 96.04,
+        "DeliveryTimeMin": 120.08,
+        "VehicleType": "Bike",
+        "FuelUsedL": 16.68,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 78,
+        "Date": "2025-01-20",
+        "Region": "South",
+        "DistanceKm": 97.33,
+        "DeliveryTimeMin": 72.48,
+        "VehicleType": "Truck",
+        "FuelUsedL": 10.88,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 79,
+        "Date": "2025-02-24",
+        "Region": "East",
+        "DistanceKm": 18.71,
+        "DeliveryTimeMin": 15.52,
+        "VehicleType": "Van",
+        "FuelUsedL": 1.26,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 80,
+        "Date": "2025-05-11",
+        "Region": "East",
+        "DistanceKm": 44.48,
+        "DeliveryTimeMin": 59.33,
+        "VehicleType": "Bike",
+        "FuelUsedL": 3.43,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 81,
+        "Date": "2024-12-18",
+        "Region": "West",
+        "DistanceKm": 57.59,
+        "DeliveryTimeMin": 51.89,
+        "VehicleType": "Truck",
+        "FuelUsedL": 9.97,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 82,
+        "Date": "2025-03-12",
+        "Region": "North",
+        "DistanceKm": 9.61,
+        "DeliveryTimeMin": 6.42,
+        "VehicleType": "Car",
+        "FuelUsedL": 1.62,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 83,
+        "Date": "2025-05-10",
+        "Region": "North",
+        "DistanceKm": 13.67,
+        "DeliveryTimeMin": 9.24,
+        "VehicleType": "Van",
+        "FuelUsedL": 1.34,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 84,
+        "Date": "2024-12-16",
+        "Region": "North",
+        "DistanceKm": 41.05,
+        "DeliveryTimeMin": 44.49,
+        "VehicleType": "Car",
+        "FuelUsedL": 6.5,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 85,
+        "Date": "2025-01-11",
+        "Region": "North",
+        "DistanceKm": 5.73,
+        "DeliveryTimeMin": 7.02,
+        "VehicleType": "Car",
+        "FuelUsedL": 0.96,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 86,
+        "Date": "2025-01-05",
+        "Region": "East",
+        "DistanceKm": 45.52,
+        "DeliveryTimeMin": 38.24,
+        "VehicleType": "Bike",
+        "FuelUsedL": 2.47,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 87,
+        "Date": "2025-04-28",
+        "Region": "East",
+        "DistanceKm": 86.94,
+        "DeliveryTimeMin": 74.32,
+        "VehicleType": "Van",
+        "FuelUsedL": 10.34,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 88,
+        "Date": "2024-12-30",
+        "Region": "South",
+        "DistanceKm": 6.47,
+        "DeliveryTimeMin": 8.05,
+        "VehicleType": "Truck",
+        "FuelUsedL": 0.53,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 89,
+        "Date": "2025-04-24",
+        "Region": "South",
+        "DistanceKm": 48.75,
+        "DeliveryTimeMin": 36.47,
+        "VehicleType": "Van",
+        "FuelUsedL": 8.86,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 90,
+        "Date": "2025-01-08",
+        "Region": "North",
+        "DistanceKm": 80.44,
+        "DeliveryTimeMin": 86.31,
+        "VehicleType": "Bike",
+        "FuelUsedL": 12.46,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 91,
+        "Date": "2025-03-31",
+        "Region": "West",
+        "DistanceKm": 27.0,
+        "DeliveryTimeMin": 38.05,
+        "VehicleType": "Bike",
+        "FuelUsedL": 4.99,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 92,
+        "Date": "2025-05-02",
+        "Region": "North",
+        "DistanceKm": 27.13,
+        "DeliveryTimeMin": 28.37,
+        "VehicleType": "Bike",
+        "FuelUsedL": 4.69,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 93,
+        "Date": "2024-12-16",
+        "Region": "East",
+        "DistanceKm": 17.36,
+        "DeliveryTimeMin": 11.99,
+        "VehicleType": "Car",
+        "FuelUsedL": 1.82,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 94,
+        "Date": "2025-04-03",
+        "Region": "North",
+        "DistanceKm": 23.97,
+        "DeliveryTimeMin": 31.03,
+        "VehicleType": "Car",
+        "FuelUsedL": 3.42,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 95,
+        "Date": "2025-05-29",
+        "Region": "South",
+        "DistanceKm": 31.85,
+        "DeliveryTimeMin": 29.21,
+        "VehicleType": "Van",
+        "FuelUsedL": 4.41,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 96,
+        "Date": "2025-04-12",
+        "Region": "West",
+        "DistanceKm": 53.32,
+        "DeliveryTimeMin": 51.42,
+        "VehicleType": "Bike",
+        "FuelUsedL": 3.8,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 97,
+        "Date": "2025-03-29",
+        "Region": "East",
+        "DistanceKm": 88.6,
+        "DeliveryTimeMin": 66.44,
+        "VehicleType": "Truck",
+        "FuelUsedL": 9.51,
+        "Delayed": "No"
+    },
+    {
+        "DeliveryID": 98,
+        "Date": "2025-04-25",
+        "Region": "East",
+        "DistanceKm": 53.43,
+        "DeliveryTimeMin": 40.34,
+        "VehicleType": "Car",
+        "FuelUsedL": 4.27,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 99,
+        "Date": "2025-05-30",
+        "Region": "South",
+        "DistanceKm": 76.34,
+        "DeliveryTimeMin": 55.52,
+        "VehicleType": "Van",
+        "FuelUsedL": 8.56,
+        "Delayed": "Yes"
+    },
+    {
+        "DeliveryID": 100,
+        "Date": "2025-02-18",
+        "Region": "North",
+        "DistanceKm": 30.11,
+        "DeliveryTimeMin": 38.77,
+        "VehicleType": "Car",
+        "FuelUsedL": 4.08,
+        "Delayed": "Yes"
+    }
+]
